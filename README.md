@@ -20,3 +20,8 @@ The comparisons are to the S&P 500
 
 ### Resources
 This folder contains the data used for the analysis. The data was pulled using google sheets' google finance tool. 
+
+
+## Repo where I devloped my code
+See full commit history here
+https://github.com/joseolasa/python-homework/tree/main/Whale_Analysis
